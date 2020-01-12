@@ -1,0 +1,32 @@
+﻿#heading {
+  
+  font-family: Serif, Monospace;
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  
+}
+
+#marquee {
+  
+  font-family: Serif, Monospace;
+  font-size: 18px;
+  color: black;
+  text-align: center;
+  background-color: orange;
+}
+
+#hr {
+  
+  color: black;
+  text-align: center;
+}
+
+#p {
+  
+  font-family: Serif, Monospace;
+  font-size: 18px;
+  color: black;
+  text-align: center;
+  
+}
